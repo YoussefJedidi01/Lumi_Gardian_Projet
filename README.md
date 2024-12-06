@@ -54,7 +54,7 @@ LumiGuardian works seamlessly on both Android and iOS devices, thanks to its Flu
 2. **App Setup**:  
    - Clone this repository:
      ```bash
-      https://github.com/Iheb-Aouini/LumiGuardian.git
+      https://github.com/YoussefJedidi01/LumiGuardian.git
      ```
    - Install dependencies:
      ```bash
